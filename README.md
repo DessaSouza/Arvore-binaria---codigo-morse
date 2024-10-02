@@ -1,2 +1,4 @@
 # Arvore-binaria---codigo-morse
-Programa em pyton para uma arvore binária
+Este projeto implementa uma árvore binária para representar o código Morse, um sistema de codificação de texto de pontos (.) e traços (-) para representar letras e números. A árvore foi usada para armazenar cada caractere em um nó que corresponde à sequência de pontos e traços. Além disso, permite que a inserção de mensagens em código Morse, buscar caracteres na árvore e exibir sua estrutura de forma hierárquica.
+A árvore tem a seguinte estrutura: a raiz da árvore é o ponto de partida -> cada nó pode ter dois filhos: um à esquerda para representar um ponto e um à direita para representar um traço -> cada caminho da raiz até um nó descreve a sequência de pontos e traços que codifica um caractere específico.
+Podemos usar ela para inserir caracteres de acordo com seu código Morse, buscar caracteres com base em uma sequência de pontos e traços e exibir a estrutura da árvore de forma hierárquica.
